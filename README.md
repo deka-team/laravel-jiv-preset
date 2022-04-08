@@ -8,10 +8,12 @@
 
 <h2 align="center">Laravel Jetstream Inertia Vite Preset</h2>
 
+Make sure using **node >= 16**
+
 <h4>Usage</h4>
 
 ```
-laravel new laravel-project --jet --stack inertia --teams
+laravel new laravel-project --jet --stack inertia --teams && cd laravel-project
 ```
 
 <h4>Apply Preset</h4>
