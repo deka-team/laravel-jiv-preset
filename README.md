@@ -8,12 +8,12 @@
 
 <h2 align="center">Laravel Jetstream Inertia Vite Preset</h2>
 
-####Usage
+<h4>Usage</h4>
 ```
 laravel new laravel-coba --jet --stack inertia --teams
 ```
 
-####Apply Preset
+<h4>Apply Preset</h4>
 ```
 npx @preset/cli apply deka-team/laravel-jiv-preset
 ```
