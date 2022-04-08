@@ -11,7 +11,7 @@
 <h4>Usage</h4>
 
 ```
-laravel new laravel-coba --jet --stack inertia --teams
+laravel new laravel-project --jet --stack inertia --teams
 ```
 
 <h4>Apply Preset</h4>
