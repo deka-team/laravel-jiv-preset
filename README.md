@@ -6,8 +6,8 @@
   <br />
 </p>
 
-<h2 align="center">parav</h2>
-<pre><div align="center">npx @preset/cli apply username/laravel-jetstream-inertia</div></pre>
+<h2 align="center">Laravel Jetstream Inertia Vite Preset</h2>
+<pre><div align="center">npx @preset/cli apply deka-team/laravel-jiv-preset</div></pre>
 
 <br />
 
